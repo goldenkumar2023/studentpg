@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568037284796",
+    "project_id": "studentpg-aeb1e",
+    "storage_bucket": "studentpg-aeb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568037284796:android:33226421f0cdc981a0e9b9",
+        "android_client_info": {
+          "package_name": "com.example.studentpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568037284796-tthq98bpa92hsv0bqheid8aj2ron35q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABsC2Rav5-JL_f55iKqBlKzy5_ufe_7fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568037284796-tthq98bpa92hsv0bqheid8aj2ron35q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
